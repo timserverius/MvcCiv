@@ -3,3 +3,8 @@ C:\code\DotNet\MvcCiv\MvcCivEngine\bin\Debug\MvcCivEngine.dll
 C:\code\DotNet\MvcCiv\MvcCivEngine\bin\Debug\MvcCivEngine.pdb
 C:\code\DotNet\MvcCiv\MvcCivEngine\obj\Debug\MvcCivEngine.dll
 C:\code\DotNet\MvcCiv\MvcCivEngine\obj\Debug\MvcCivEngine.pdb
+C:\Users\tserverius\Documents\GitHub\MvcCiv\MvcCivEngine\bin\Debug\MvcCivEngine.dll
+C:\Users\tserverius\Documents\GitHub\MvcCiv\MvcCivEngine\bin\Debug\MvcCivEngine.pdb
+C:\Users\tserverius\Documents\GitHub\MvcCiv\MvcCivEngine\obj\Debug\MvcCivEngine.csprojResolveAssemblyReference.cache
+C:\Users\tserverius\Documents\GitHub\MvcCiv\MvcCivEngine\obj\Debug\MvcCivEngine.dll
+C:\Users\tserverius\Documents\GitHub\MvcCiv\MvcCivEngine\obj\Debug\MvcCivEngine.pdb

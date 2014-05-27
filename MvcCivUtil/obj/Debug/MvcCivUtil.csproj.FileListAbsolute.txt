@@ -6,3 +6,11 @@ C:\code\DotNet\MvcCiv\MvcCivUtil\obj\Debug\MvcCivUtil.exe
 C:\code\DotNet\MvcCiv\MvcCivUtil\obj\Debug\MvcCivUtil.pdb
 C:\code\DotNet\MvcCiv\MvcCivUtil\bin\Debug\MvcCivEngine.dll
 C:\code\DotNet\MvcCiv\MvcCivUtil\bin\Debug\MvcCivEngine.pdb
+C:\Users\tserverius\Documents\GitHub\MvcCiv\MvcCivUtil\bin\Debug\MvcCivUtil.exe.config
+C:\Users\tserverius\Documents\GitHub\MvcCiv\MvcCivUtil\bin\Debug\MvcCivUtil.exe
+C:\Users\tserverius\Documents\GitHub\MvcCiv\MvcCivUtil\bin\Debug\MvcCivUtil.pdb
+C:\Users\tserverius\Documents\GitHub\MvcCiv\MvcCivUtil\bin\Debug\MvcCivEngine.dll
+C:\Users\tserverius\Documents\GitHub\MvcCiv\MvcCivUtil\bin\Debug\MvcCivEngine.pdb
+C:\Users\tserverius\Documents\GitHub\MvcCiv\MvcCivUtil\obj\Debug\MvcCivUtil.csprojResolveAssemblyReference.cache
+C:\Users\tserverius\Documents\GitHub\MvcCiv\MvcCivUtil\obj\Debug\MvcCivUtil.exe
+C:\Users\tserverius\Documents\GitHub\MvcCiv\MvcCivUtil\obj\Debug\MvcCivUtil.pdb
