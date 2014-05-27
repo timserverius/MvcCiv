@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcCiv", "MvcCiv\MvcCiv.csproj", "{DFFB8671-6353-4FB9-A5C3-DA7C2011E214}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcCivEngine", "MvcCivEngine\MvcCivEngine.csproj", "{8939A0F6-4568-4E8D-9D88-5A5D84D3E541}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcCivUtil", "MvcCivUtil\MvcCivUtil.csproj", "{09A91910-57EF-4B8F-AE8F-E9DC78A64F98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFFB8671-6353-4FB9-A5C3-DA7C2011E214}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFFB8671-6353-4FB9-A5C3-DA7C2011E214}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFFB8671-6353-4FB9-A5C3-DA7C2011E214}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFFB8671-6353-4FB9-A5C3-DA7C2011E214}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8939A0F6-4568-4E8D-9D88-5A5D84D3E541}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8939A0F6-4568-4E8D-9D88-5A5D84D3E541}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8939A0F6-4568-4E8D-9D88-5A5D84D3E541}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8939A0F6-4568-4E8D-9D88-5A5D84D3E541}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09A91910-57EF-4B8F-AE8F-E9DC78A64F98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09A91910-57EF-4B8F-AE8F-E9DC78A64F98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09A91910-57EF-4B8F-AE8F-E9DC78A64F98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09A91910-57EF-4B8F-AE8F-E9DC78A64F98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

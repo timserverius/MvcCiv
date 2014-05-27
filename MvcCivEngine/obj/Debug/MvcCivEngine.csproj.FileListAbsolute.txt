@@ -1,0 +1,5 @@
+C:\code\DotNet\MvcCiv\MvcCivEngine\obj\Debug\MvcCivEngine.csprojResolveAssemblyReference.cache
+C:\code\DotNet\MvcCiv\MvcCivEngine\bin\Debug\MvcCivEngine.dll
+C:\code\DotNet\MvcCiv\MvcCivEngine\bin\Debug\MvcCivEngine.pdb
+C:\code\DotNet\MvcCiv\MvcCivEngine\obj\Debug\MvcCivEngine.dll
+C:\code\DotNet\MvcCiv\MvcCivEngine\obj\Debug\MvcCivEngine.pdb
