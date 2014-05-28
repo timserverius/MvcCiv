@@ -1,0 +1,67 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Pragma" content="no-cache">
+    <link href="Content/themes/base/jquery.ui.all.css" rel="stylesheet" />
+
+    <script src="Scripts/jquery-2.1.1.min.js"></script>
+    <script src="Scripts/jquery-ui-1.10.4.min.js"></script>
+    
+    <title></title>
+</head>
+<body>
+    <div id="pb"></div><div id="pbText">test</div><br />
+    <div id="pb2"></div><div id="pb2Text"></div>
+    <script>
+        $("#pb").progressbar({
+            value: 10            
+        }).height(5).width(50);
+        $("#pb2").progressbar({
+            value: 10
+        }).height(5).width(50);
+        $("#pb > div").css({ 'background': 'Green' });
+        $("#pb2 > div").css({ 'background': 'Green' });
+
+
+
+        
+        var myTimer = window.setInterval(
+            function () {
+                var i = $("#pb").progressbar("value");
+                i += 1;
+                if(i<=100)
+                {
+                    $("#pb").progressbar("value", i);
+                }
+                else
+                {
+                    $("#pb > div").css({ 'background': 'Chartreuse' });
+                    clearInterval(myTimer);
+                }
+                i = $("#pb2").progressbar("value");
+                i += 1;
+                if (i <= 100) {
+                    $("#pb2").progressbar("value", i);
+                }
+                else {
+                    $("#pb2 > div").css({ 'background': 'Chartreuse' });
+                    clearInterval(myTimer);
+                }
+
+            },
+            10
+            );
+
+        
+        $(document).ready(
+            function() {
+                $("#pb").on("progressbarchange", function (event, ui) {
+                    var x = $("#pb").progressbar("value");
+                    $("#pbText").text(x);
+                });
+        });
+        
+        
+    </script>
+</body>
+</html>
