@@ -46,7 +46,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TechBranch.cs" />
     <Compile Include="TechTree.cs" />
-    <Compile Include="Widget.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Main.cd" />
