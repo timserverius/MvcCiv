@@ -1,37 +1,102 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
-  <Class Name="MvcCivEngine.GatherTask">
-    <Position X="4.25" Y="2.5" Width="1.5" />
+  <Class Name="MvcCivEngine.GatherTask" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5" Y="2.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAACQAAAAGAAAAAAAAAgAAQQIAAEAAIAIAAAAAAAAgA=</HashCode>
       <FileName>GatherTask.cs</FileName>
     </TypeIdentifier>
-    <Lollipop Position="0.2" />
+    <Lollipop Position="0.2" Collapsed="true" />
   </Class>
-  <Class Name="MvcCivEngine.ExplorationTask">
-    <Position X="2.25" Y="2.5" Width="1.5" />
+  <Class Name="MvcCivEngine.ExplorationTask" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="3.25" Y="2.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAACAAAAACAAAAAAAAAgAAQQAAAAAAAAIAAAAAAAAAA=</HashCode>
       <FileName>ExplorationTask.cs</FileName>
     </TypeIdentifier>
-    <Lollipop Position="0.2" />
+    <Lollipop Position="0.2" Collapsed="true" />
   </Class>
-  <Class Name="MvcCivEngine.TechTree">
-    <Position X="1.5" Y="5.5" Width="1.5" />
+  <Class Name="MvcCivEngine.TechTree" Collapsed="true">
+    <Position X="5" Y="4.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AIAAAAAAAAAACAABAAAAAAACAAAAAAAAAAAAAACAAAI=</HashCode>
       <FileName>TechTree.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="MvcCivEngine.TechBranch">
-    <Position X="7.75" Y="5.75" Width="1.5" />
+  <Class Name="MvcCivEngine.TechBranch" Collapsed="true">
+    <Position X="3.25" Y="4.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAACABAAAAA5AAAAAAAAAAQAAAAAAAEAAAAAAAEAAAA=</HashCode>
+      <HashCode>AAQCBBAEAAA5IAAAAAAAAAQAAAAAACAAAAAAAAEAAAQ=</HashCode>
       <FileName>TechBranch.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Interface Name="MvcCivEngine.ICivTask">
-    <Position X="6.5" Y="2.5" Width="1.5" />
+  <Class Name="MvcCivEngine.Inventory" Collapsed="true">
+    <Position X="1.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAgBAAAIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Inventory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MvcCivEngine.Stockpile" Collapsed="true">
+    <Position X="1.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Stockpile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MvcCivEngine.Resource" Collapsed="true">
+    <Position X="6.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAgAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Resource.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MvcCivEngine.Region" Collapsed="true">
+    <Position X="5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAABAAAAAgAAAAAAAAAAQAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Region.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MvcCivEngine.Profession" Collapsed="true">
+    <Position X="3.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAgAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Profession.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MvcCivEngine.Citizen" Collapsed="true">
+    <Position X="1.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAQAAACAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Citizen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MvcCivEngine.IdleTask" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="6.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAACAAAAAAAAAgAAQQAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>IdleTask.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MvcCivEngine.BuildTask">
+    <Position X="4.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAACAAAAAAAAAgAAQQAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>BuildTask.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="MvcCivEngine.Building">
+    <Position X="7.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Building.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="MvcCivEngine.ICivTask" Collapsed="true">
+    <Position X="1.5" Y="5.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAACAAAAACAAAAAAAAAgAAQQAAAAAAAAIAAAAAAAAAA=</HashCode>
       <FileName>ICivTask.cs</FileName>
